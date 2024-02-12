@@ -13,5 +13,5 @@ jobs:
       uses: exuanbo/actions-deploy-gist@v1
       with:
         token: ${{ secrets.TOKEN }}
-        gist_id: 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
+        gist_id: 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
         file_path: resume.json
