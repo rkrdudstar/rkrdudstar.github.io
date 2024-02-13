@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: jueying Li
+name: Jueying Li
 title: Jueying Li's Lab
 email: lijueying1108@konkuk.ac.kr
 website: https://rkrdudstar.github.io/
@@ -54,7 +54,7 @@ content:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - t itle:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
@@ -80,16 +80,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Shandong University
+        link: https://www.en.sdu.edu.cn/
+        caption: 2010 - 2015
+        sub_title: B.S Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1901, Shandong University (山东大学; SDU) is a public university in Ji'nan, Shandong, China. It is affiliated with the Ministry of Education of China. The university is part of Project 211, Project 985, and the Double First-Class Construction.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Konkuk University
+        link: https://www.konkuk.ac.kr/do/Index.do
+        caption: 2015 - 2017
+        sub_title: M.S Computer Science
+        quote: >
+          Established in 1946, Konkuk University (건국대학교; KU) is a South Korean private university founded in 1946 and it is one of the top universities in South Korea. The university was founded based on three virtues: sincerity, fidelity, and righteousness.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -100,7 +111,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
