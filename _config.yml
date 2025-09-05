@@ -40,22 +40,20 @@ content:
   - title: "Education"
     layout: list
     content:
-      - title: "Konkuk University"
-        link: "https://www.konkuk.ac.kr/do/Index.do"
+      - title: "Konkuk University, South Korea"
+        link: "https://www.konkuk.ac.kr/konkuk/index.do"
         caption: "Aug 2017 – Feb 2025"
         sub_title: "Ph.D. in Computer & Information Communication Engineering"
         description: |
           Courses: Machine Learning, Multiagent Systems, Smart City, Distributed Computing, Development of Distributed Applications, Mobile Communication, Multimedia Network, IoT, Software Modeling.
 
-      - title: "Konkuk University"
-        link: "https://www.konkuk.ac.kr/do/Index.do"
+      - title: "Konkuk University, South Korea"
         caption: "Aug 2015 – Aug 2017"
         sub_title: "M.S. in Computer & Information Communication Engineering"
         description: |
           Courses: Advanced Operating Systems, Network Architecture, Distributed Systems, Mobile Communication, Virtual Reality, Pervasive Interfaces.
 
-      - title: "Shandong University"
-        link: "https://www.en.sdu.edu.cn/"
+      - title: "Shandong University, China"
         caption: "Sep 2010 – Jun 2015"
         sub_title: "B.S. in Software Engineering"
         description: |
@@ -132,9 +130,9 @@ content:
          Li, Jueying, et al. | 2023  
          Conference: 한국항공우주학회 학술발표회 초록집, pp.566-567
   
-      7. **Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and UiPath / 基于情感分析和机器人流程自动化的客户反馈自动化与分类**  
-         Sakthivel Velusamy, Varshini Ganti, Nethra Sai M, Deepthi Ramesh, Vishnu Kumar Kaliappan, **Jueying Li / 李觉英** | 2023  
-         Conference: International Conference on Recent Trends in Data Science and its Applications (ICRTDA 2023) / 国际数据科学与应用最新趋势会议  
+      7. **Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and UiPath**  
+         Sakthivel Velusamy, Varshini Ganti, Nethra Sai M, Deepthi Ramesh, Vishnu Kumar Kaliappan, **Jueying Li** | 2023  
+         Conference: International Conference on Recent Trends in Data Science and its Applications (ICRTDA 2023) 
          DOI: [10.13052/rp-9788770040723.175](https://doi.org/10.13052/rp-9788770040723.175)
   
       8. **System Dynamics Model of Urban Transportation System**  
