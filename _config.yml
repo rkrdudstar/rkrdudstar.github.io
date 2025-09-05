@@ -1,94 +1,55 @@
-# Site settings
-name: Jueying Li
-title: Jueying Li | Computer & Information Communication Engineering
-email: dlrkrdud@163.com
-url: "https://rkrdudstar.github.io"
-baseurl: ""
-repository: Rkrdudstar/rkrdudstar.github.io
-github_username: Rkrdudstar
+repository: rkrdudstar/rkrdudstar.github.io
+favicon: images/favicon.ico
 
-# Social Links
-social:
-  - name: GitHub
-    url: "https://github.com/Rkrdudstar"
-  - name: LinkedIn
-    url: "https://www.linkedin.com/in/jueying-li"
-  - name: WeChat
-    url: "https://weixin.qq.com"
+# Content configuration version
+version: 2
 
-# Build settings
-theme: modern-resume-theme
+# Personal info
+name: "Jueying Li"
+title: "Jueying Li | Computer & Information Communication Engineering"
+email: "dlrkrdud@163.com"
+website: "https://rkrdudstar.github.io/"
 
-# Personal Info
-description: "Doctoral researcher in Computer & Information Communication Engineering at Konkuk University. Specializing in cloud computing, AI, distributed systems, and UAV digital twin research."
+# Dark Mode (true/false/never)
+darkmode: never
 
-# Sections
+# Social links
+twitter_username: rkrdudstar
+github_username: rkrdudstar
+instagram_username: rkrdudstar
+youtube_username: rkrdudstar
+linkedin_username: ""
+
+# Additional icon links
+additional_links:
+  - title: "itsgoingto.be"
+    icon: "fas fa-globe"
+    url: "https://www.itsgoingto.be"
+
+about_profile_image: images/profile_JueyingLi.jpg
+
+about_content: |
+  Hello! I am Jueying Li, a Ph.D. candidate in Computer & Information Communication Engineering at Konkuk University, Seoul. My research focuses on **cloud computing, distributed systems, digital twins, and multi-agent AI**. I have contributed to multiple national projects in UAV digital twin systems, smart city AI, and hybrid cloud infrastructure.
+
+  I am passionate about combining **edge-cloud collaboration, large language models, and simulation technologies** to solve real-world problems in aerospace, public safety, and intelligent systems.
+
+  **Key skills:** <mark>Cloud Computing</mark>, <mark>Multi-Agent AI</mark>, <mark>Distributed Systems</mark>, <mark>Machine Learning</mark>, <mark>Simulation Platforms</mark>
+
 content:
-  - title: Education
-    layout: list
-    content:
-      - title: "Konkuk University, Ph.D. in Computer & Information Communication Engineering"
-        sub_title: "Seoul, South Korea | Aug 2017 - Feb 2025"
-        description: "Courses: Machine Learning, Multiagent Systems, Smart City, Advanced Topics in Distributed Computing, Development of Distributed Applications, Mobile Communication, Multimedia Network, Internet of Intelligent Things, Software Modeling, Professional Industry Practice."
-      - title: "Konkuk University, Master of Philosophy in Computer & Information Communication Engineering"
-        sub_title: "Seoul, South Korea | Aug 2015 - Aug 2017"
-        description: "Courses: Advanced Operating Systems, Network Architecture, Next Generation System, Distributed Information Systems, Development of Distributed Applications, Mobile Communication, Virtual Reality Advanced Topics In, Pervasive Interfaces."
-      - title: "Shandong University, Bachelor of Software Engineering"
-        sub_title: "Shandong, China | Sep 2010 - Jun 2015"
-        description: "Courses: C Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, Software Engineering, Database Systems, Java Programming."
-
-  - title: Internship Experience
-    layout: list
-    content:
-      - title: "Miryo-Vision, Front-End and Back-End Development Engineer"
-        sub_title: "Seoul, South Korea | Jul 2018 - Sep 2019"
-        description: |
-          - Led development of Garment Production Data Management System (Spring Boot + Vue).
-          - Defined standardized API protocols and optimized communication.
-          - Assisted in multi-node deployment with Docker/Kubernetes.
-          - Contributed to Prometheus + Grafana monitoring platform.
-
-  - title: Project Experience
-    layout: list
-    content:
-      - title: "UAV Digital Twin Project, Institute of Aerospace and Aeronautics, Konkuk University, Researcher"
-        sub_title: "Seoul, South Korea | Oct 2021 – Present"
-        description: |
-          - Contributed to a 10-year national key project on UAV digital twin R&D.
-          - Led OpenStack cloud architecture design.
-          - Developed FastAPI backend modules.
-          - Integrated Unreal Engine (UE) 3D simulation environment.
-          - Drove CI/CD pipeline implementation.
-      - title: "LLM and Multi-Agent AI Edge-Cloud Collaboration Project in Smart City Public Security (Government-funded Project), Researcher"
-        sub_title: "Seoul, South Korea | Oct 2022 - Feb 2025"
-        description: |
-          - Participated in a five-year national smart city initiative.
-          - Led OpenStack cloud architecture design and server development.
-          - Built robot simulation environment with Gazebo and ROS.
-          - Spearheaded elderly care functionality.
-          - Developed real-time data processing pipeline with Kafka and Spark.
-      - title: "High Performance Hybrid Cloud Computing Technology Development Project for AI Information Services (National Project), Researcher"
-        sub_title: "Seoul, South Korea | Dec 2016 - Feb 2022"
-        description: |
-          - Developed a high-performance hybrid cloud platform.
-          - Automated deployment processes using FAI tools.
-          - Built OpenStack-based hybrid cloud platform.
-          - Developed VM lifecycle management tool with Ansible/Terraform.
-
-  - title: Papers & Conferences
+  - title: "Papers & Conferences"
     layout: list
     content:
       - title: "Optimization of Character Animation Design and Motion Synthesis in Film and TV Media Based on Data Mining"
-        authors: "Meng, Xiao, and Jueying Li"
+        authors: "Meng, Xiao; Jueying Li"
         year: "2024"
       - title: "STaaS: Cost Effective and Scalable Union Mounting in ICP for Aerospace Applications"
-        authors: "Sakthivel, V., Li, J., Min, D., Lee, J. W., & Choi, E."
+        authors: "Sakthivel, V.; Li, J.; Min, D.; Lee, J. W.; Choi, E."
         conference: "2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)"
         pages: "pp. 334-338"
         publisher: "IEEE"
         year: "2024"
-      - title: "Software aging effects on kubernetes in container orchestration systems for digital twin cloud infrastructures of urban air mobility"
-        authors: "Costa, J., Matos, R., Araujo, J., Li, J., Choi, E., Nguyen, T. A., … & Min, D."
+      - title: "Software aging effects on Kubernetes in container orchestration systems for digital twin cloud infrastructures of urban air mobility"
+        authors: "Costa, J.; Matos, R.; Araujo, J.; Li, J.; Choi, E.; Nguyen, T. A.; Min, D."
         journal: "Drones"
         volume: "7(1)"
         page: "35"
@@ -99,7 +60,7 @@ content:
         publisher: "IEEE"
         year: "2023"
       - title: "Cloud-in-the-loop simulation: A cloud-based digital twin HW/SW framework for multi-mode AI control simulation of eVTOL KADA-UAM Personal Aerial Vehicles"
-        authors: "Nguyen, T. A., Li, J., Jang, M., Maw, A. A., Pham, V., & Lee, J. W."
+        authors: "Nguyen, T. A.; Li, J.; Jang, M.; Maw, A. A.; Pham, V.; Lee, J. W."
         conference: "한국항공우주학회 학술발표회 초록집"
         pages: "138-139"
         year: "2022"
@@ -117,17 +78,98 @@ content:
         doi: "10.1201/9781003339953-3"
       - doi: "10.13052/rp-9788770040723.175"
 
-  - title: Languages & Skills
+  - title: "Education"
+    layout: list
+    content:
+      - title: "Konkuk University"
+        link: "https://www.konkuk.ac.kr/do/Index.do"
+        caption: "Aug 2017 – Feb 2025"
+        sub_title: "Ph.D. in Computer & Information Communication Engineering"
+        description: |
+          Courses: Machine Learning, Multiagent Systems, Smart City, Distributed Computing, Development of Distributed Applications, Mobile Communication, Multimedia Network, IoT, Software Modeling.
+
+      - title: "Konkuk University"
+        link: "https://www.konkuk.ac.kr/do/Index.do"
+        caption: "Aug 2015 – Aug 2017"
+        sub_title: "M.S. in Computer & Information Communication Engineering"
+        description: |
+          Courses: Advanced Operating Systems, Network Architecture, Distributed Systems, Mobile Communication, Virtual Reality, Pervasive Interfaces.
+
+      - title: "Shandong University"
+        link: "https://www.en.sdu.edu.cn/"
+        caption: "Sep 2010 – Jun 2015"
+        sub_title: "B.S. in Software Engineering"
+        description: |
+          Courses: C Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, Software Engineering, Database Systems, Java Programming.
+
+  - title: "Experience"
+    layout: list
+    content:
+      - title: "Miryo-Vision"
+        caption: "Jul 2018 – Sep 2019"
+        sub_title: "Front-End & Back-End Development Engineer"
+        description: |
+          - Led development of Garment Production Data Management System with Spring Boot + Vue.
+          - Designed APIs, optimized data protocols, improved processing efficiency and UX.
+          - Containerized apps with Docker/Kubernetes, enabling scalable deployment.
+          - Built Prometheus + Grafana monitoring platform for real-time performance tracking.
+
+  - title: "Projects"
+    layout: list
+    content:
+      - title: "UAV Digital Twin Project"
+        caption: "Oct 2021 – Present, Konkuk University"
+        sub_title: "Researcher"
+        description: |
+          - Contributed to a 10-year national project on UAV digital twin R&D.
+          - Designed OpenStack-based cloud architecture for aerospace simulations.
+          - Developed FastAPI backend modules for aircraft modeling and traffic simulation.
+          - Automated resource deployment/scaling with Ansible.
+          - Integrated Unreal Engine 3D simulation environment for flight control testing.
+
+      - title: "Multi-Agent AI Edge-Cloud Collaboration Project (Smart City)"
+        caption: "Oct 2022 – Feb 2025, Government-funded Project"
+        sub_title: "Researcher"
+        description: |
+          - Designed edge-cloud architecture with OpenStack for 50+ robot management.
+          - Built simulation environment with Gazebo & ROS.
+          - Developed route planning, obstacle detection, and health reminder modules.
+          - Implemented fall detection and real-time emergency alert system.
+          - Built Kafka + Spark Streaming pipeline for concurrent data transmission.
+
+      - title: "High Performance Hybrid Cloud Computing for AI Services"
+        caption: "Dec 2016 – Feb 2022, National Project"
+        sub_title: "Researcher"
+        description: |
+          - Developed hybrid cloud platform for AI services using OpenStack, KVM, Xen, Ceph.
+          - Automated deployment with FAI, reducing setup time from 3 days to 4 hours.
+          - Built VM lifecycle management with Ansible/Terraform.
+          - Supported 500+ users with 99.5% stability, delivered 2 technical reports.
+
+  - title: "Languages & Skills"
     layout: text
     content: |
-      Languages: Chinese (Native), English (Proficient, CET-4, CET-6), Korean (Proficient, TOPIK5, C1)
-      Technical Skills: Microsoft Office, OpenStack, KVM, libvirt, Ceph, Xen, FAI, Kubernetes, Docker, PyTorch, TensorFlow, LLM, Terraform, Ansible, UnrealEngine, PX4, QGroundControl.
+      **Languages:** Chinese (Native), English (Proficient, CET-4, CET-6), Korean (Proficient, TOPIK5, C1)
 
-  - title: Interests
+      **Technical Skills:** Microsoft Office, OpenStack, KVM, libvirt, Ceph, Xen, FAI, Kubernetes, Docker, PyTorch, TensorFlow, LLM, Terraform, Ansible, UnrealEngine, PX4, QGroundControl, etc.
+
+  - title: "A Little More About Me"
     layout: text
     content: |
-      Games, Roller Skating
+      Interests:
+      - Games
+      - Roller Skating
 
-# Theme Settings
-darkmode: true
-favicon: images/favicon.ico
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: _sass
+  style: compressed
