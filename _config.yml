@@ -1,3 +1,5 @@
+resume_json: false
+
 repository: rkrdudstar/rkrdudstar.github.io
 favicon: images/favicon.ico
 
@@ -7,7 +9,7 @@ version: 2
 # Personal info
 name: "Jueying Li"
 title: "Jueying Li | Computer & Information Communication Engineering"
-email: "dlrkrdud@163.com"
+email: "dlrkrdud@aliyun.com"
 website: "https://rkrdudstar.github.io/"
 
 # Dark Mode (true/false/never)
@@ -146,6 +148,21 @@ content:
           - Built VM lifecycle management with Ansible/Terraform.
           - Supported 500+ users with 99.5% stability, delivered 2 technical reports.
 
+  - title: "Patents"
+    layout: list
+    content:
+      - title: "METHOD FOR DETERMINING SIMILARITY AND APPARATUS USING THE SAME"
+        subtitle: "유사성 판단 방법 및 그 장치"
+        patent_number: "10-2073686"
+        date: "2020-01-30"
+        status: "Granted"
+
+      - title: "APPARATUS AND METHOD FOR COMPOSABLE VIRTUAL MACHINE PROVISIONING AND MOUNTING MANAGEMENT"
+        subtitle: "컴포저블 가상머신 프로비저닝을 위한 마운팅 관리 장치 및 방법"
+        patent_number: "10-2025-0041321"
+        date: "2025-03-31"
+        status: "Pending"
+
   - title: "Languages & Skills"
     layout: text
     content: |
@@ -172,4 +189,4 @@ plugins:
 
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compresse
