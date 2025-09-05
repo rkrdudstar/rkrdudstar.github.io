@@ -38,47 +38,44 @@ about_content: |
   **Key skills:** <mark>Cloud Computing</mark>, <mark>Multi-Agent AI</mark>, <mark>Distributed Systems</mark>, <mark>Machine Learning</mark>, <mark>Simulation Platforms</mark>
 
 content:
-  - title: "Papers & Conferences"
-    layout: list
-    content:
-      - title: "Optimization of Character Animation Design and Motion Synthesis in Film and TV Media Based on Data Mining"
-        authors: "Meng, Xiao; Jueying Li"
-        year: "2024"
-      - title: "STaaS: Cost Effective and Scalable Union Mounting in ICP for Aerospace Applications"
-        authors: "Sakthivel, V.; Li, J.; Min, D.; Lee, J. W.; Choi, E."
-        conference: "2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)"
-        pages: "pp. 334-338"
-        publisher: "IEEE"
-        year: "2024"
-      - title: "Software aging effects on Kubernetes in container orchestration systems for digital twin cloud infrastructures of urban air mobility"
-        authors: "Costa, J.; Matos, R.; Araujo, J.; Li, J.; Choi, E.; Nguyen, T. A.; Min, D."
-        journal: "Drones"
-        volume: "7(1)"
-        page: "35"
-        year: "2023"
-      - title: "Auto-Provisioning of UAV Industry Cloud Platform for Intelligent Multi UAVs Simulation"
-        authors: "Li, Jueying, et al."
-        conference: "15th International Conference on Advanced Computational Intelligence (ICACI)"
-        publisher: "IEEE"
-        year: "2023"
-      - title: "Cloud-in-the-loop simulation: A cloud-based digital twin HW/SW framework for multi-mode AI control simulation of eVTOL KADA-UAM Personal Aerial Vehicles"
-        authors: "Nguyen, T. A.; Li, J.; Jang, M.; Maw, A. A.; Pham, V.; Lee, J. W."
-        conference: "한국항공우주학회 학술발표회 초록집"
-        pages: "138-139"
-        year: "2022"
-      - title: "UAV Oriented Container based Reconfigurable Federated Fog/Edge Cluster System"
-        authors: "Li, Jueying, et al."
-        conference: "한국항공우주학회 학술발표회 초록집"
-        pages: "566-567"
-        year: "2023"
-      - title: "Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and Uipath"
-        year: "2023"
-      - title: "System Dynamics Model of Urban Transportation System"
-        book: "Urban Air Mobility"
-        pages: "pp.53-74"
-        year: "2024"
-        doi: "10.1201/9781003339953-3"
-      - doi: "10.13052/rp-9788770040723.175"
+- title: Papers & Conferences
+  layout: list
+  content:
+    - title: "Optimization of Character Animation Design and Motion Synthesis in Film and TV Media Based on Data Mining"
+      sub_title: "Meng, Xiao, and Jueying Li | 2024"
+      description: "Journal/Conference: N/A"
+
+    - title: "STaaS: Cost Effective and Scalable Union Mounting in ICP for Aerospace Applications"
+      sub_title: "Sakthivel, V., Li, J., Min, D., Lee, J. W., & Choi, E. | 2024"
+      description: "Conference: 2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST), pp.334-338, IEEE"
+
+    - title: "Software aging effects on kubernetes in container orchestration systems for digital twin cloud infrastructures of urban air mobility"
+      sub_title: "Costa, J., Matos, R., Araujo, J., Li, J., Choi, E., Nguyen, T. A., … & Min, D. | 2023"
+      description: "Journal: Drones, 7(1), 35"
+
+    - title: "Auto-Provisioning of UAV Industry Cloud Platform for Intelligent Multi UAVs Simulation"
+      sub_title: "Li, Jueying, et al. | 2023"
+      description: "Conference: 15th International Conference on Advanced Computational Intelligence (ICACI), IEEE"
+
+    - title: "Cloud-in-the-loop simulation: A cloud-based digital twin HW/SW framework for multi-mode AI control simulation of eVTOL KADA-UAM Personal Aerial Vehicles"
+      sub_title: "Nguyen, T. A., Li, J., Jang, M., Maw, A. A., Pham, V., & Lee, J. W. | 2022"
+      description: "Conference: 한국항공우주학회 학술발표회 초록집, pp.138-139"
+
+    - title: "UAV Oriented Container based Reconfigurable Federated Fog/Edge Cluster System"
+      sub_title: "Li, Jueying, et al. | 2023"
+      description: "Conference: 한국항공우주학회 학술발표회 초록집, pp.566-567"
+
+    - title: "Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and Uipath"
+      sub_title: "| 2023"
+      description: "Conference/Journal: N/A"
+
+    - title: "System Dynamics Model of Urban Transportation System"
+      sub_title: "| 2024"
+      description: "Book: Urban Air Mobility, pp.53-74, DOI:10.1201/9781003339953-3"
+
+    - title: "DOI Reference"
+      sub_title: "| N/A"
+      description: "DOI: 10.13052/rp-9788770040723.175"
 
   - title: "Education"
     layout: list
