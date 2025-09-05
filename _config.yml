@@ -41,7 +41,6 @@ content:
     layout: list
     content:
       - title: "Konkuk University, South Korea"
-        link: "https://www.konkuk.ac.kr/konkuk/index.do"
         caption: "Aug 2017 – Feb 2025"
         sub_title: "Ph.D. in Computer & Information Communication Engineering"
         description: |
