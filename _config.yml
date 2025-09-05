@@ -105,36 +105,42 @@ content:
           - Built VM lifecycle management with Ansible/Terraform.
           - Supported 500+ users with 99.5% stability, delivered 2 technical reports.
 
-  - title: "Papers & Conferences"
+  - title: Papers & Conferences
     layout: text
     content: |
       1. **Optimization of Character Animation Design and Motion Synthesis in Film and TV Media Based on Data Mining**  
-         Meng, Xiao, and Jueying Li | 2024
-
+         Meng, Xiao, and Jueying Li | 2024  
+         Journal/Conference: N/A
+  
       2. **STaaS: Cost Effective and Scalable Union Mounting in ICP for Aerospace Applications**  
          Sakthivel, V., Li, J., Min, D., Lee, J. W., & Choi, E. | 2024  
          Conference: 2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST), pp.334-338, IEEE
-
+  
       3. **Software aging effects on kubernetes in container orchestration systems for digital twin cloud infrastructures of urban air mobility**  
          Costa, J., Matos, R., Araujo, J., Li, J., Choi, E., Nguyen, T. A., … & Min, D. | 2023  
          Journal: Drones, 7(1), 35
-
+  
       4. **Auto-Provisioning of UAV Industry Cloud Platform for Intelligent Multi UAVs Simulation**  
          Li, Jueying, et al. | 2023  
          Conference: 15th International Conference on Advanced Computational Intelligence (ICACI), IEEE
-
+  
       5. **Cloud-in-the-loop simulation: A cloud-based digital twin HW/SW framework for multi-mode AI control simulation of eVTOL KADA-UAM Personal Aerial Vehicles**  
          Nguyen, T. A., Li, J., Jang, M., Maw, A. A., Pham, V., & Lee, J. W. | 2022  
          Conference: 한국항공우주학회 학술발표회 초록집, pp.138-139
-
+  
       6. **UAV Oriented Container based Reconfigurable Federated Fog/Edge Cluster System**  
          Li, Jueying, et al. | 2023  
          Conference: 한국항공우주학회 학술발표회 초록집, pp.566-567
-
-      7. **Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and Uipath** | 2023
-
-      8. **System Dynamics Model of Urban Transportation System** | 2024  
+  
+      7. **Customer Feedback Automation and Classification using Sentiment Analysis, Robotic Process Automation and UiPath / 基于情感分析和机器人流程自动化的客户反馈自动化与分类**  
+         Sakthivel Velusamy, Varshini Ganti, Nethra Sai M, Deepthi Ramesh, Vishnu Kumar Kaliappan, **Jueying Li / 李觉英** | 2023  
+         Conference: International Conference on Recent Trends in Data Science and its Applications (ICRTDA 2023) / 国际数据科学与应用最新趋势会议  
+         DOI: [10.13052/rp-9788770040723.175](https://doi.org/10.13052/rp-9788770040723.175)
+  
+      8. **System Dynamics Model of Urban Transportation System**  
+         2024  
          Book: Urban Air Mobility, pp.53-74, DOI:10.1201/9781003339953-3
+
 
   - title: "Patents"
     layout: text
